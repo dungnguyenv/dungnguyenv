@@ -1,6 +1,6 @@
 # Hi there, I'm Dung Nguyen 👋
 
-**Backend Engineer** with **6+ years of experience**, based in Hanoi, Vietnam 🇻🇳 — I build **AI agent platforms** and high-performance backend systems.
+**Software Engineer** with **6+ years of experience**, based in Hanoi, Vietnam 🇻🇳 — I build **AI agent platforms** and high-performance web applications.
 
 - 🤖 Specializing in **multi-agent systems, RAG, and LLM integrations** — LangChain, LangGraph, OpenAI, Anthropic
 - ⚙️ Strong backend foundation: microservices with **Python/FastAPI** and **Java/Kotlin Spring Boot**
