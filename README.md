@@ -46,15 +46,6 @@
 
 - **AWS Certified Developer – Associate**
 
-## 📌 Featured Repositories
-
-| Project | Description | Tech |
-|---|---|---|
-| [kafka](https://github.com/dungnguyenv/kafka) | Kafka & Flink playground — Kafka Streams, Flink jobs, fraud detection demo | Java |
-| [java-to-do-project](https://github.com/dungnguyenv/java-to-do-project) | Collection of Spring Boot demos: Kafka, WebFlux, Quartz, JPA Specification, Elasticsearch, MinIO | Java |
-| [smart-home-esp32-project](https://github.com/dungnguyenv/smart-home-esp32-project) | Smart home system built on ESP32 with PlatformIO | C++ |
-| [face-mark-detect](https://github.com/dungnguyenv/face-mark-detect) | Real-time face mask detection with Keras & OpenCV, Arduino integration | Python |
-
 ## 📊 GitHub Stats
 
 <p>
